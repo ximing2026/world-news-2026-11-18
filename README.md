@@ -4,7 +4,7 @@
 
 # The World in One Day — Wednesday 18 November 2026
 
-One image that sums up a whole day of world news, drawn as a newspaper front page.
+One image that sums up a whole day of world news, drawn as a newspaper front page: 42 stories, 7 regions, 10 drawn pictures.
 
 The lead story is President Trump's arrival in Shenzhen for the APEC summit — handshakes with Putin, their first meeting in over a year, ahead of the first-ever trilateral talks with Xi Jinping, with nuclear arms and two wars on the table. Around it: Iran striking a U.S. base in Kuwait as five tankers are hit around Hormuz; a cyberattack wave that hit nearly 200 websites and a U.S. spy agency's top-secret network; Zelensky confirming the Crimea Bridge strike as France weighs deploying troops; the United States losing its measles-free status; and Florida flooding under El Niño-supercharged rain. An "Also today" ticker carries the rest: a Russian military plane crash in Siberia, the COP31 deadlock, North Korea's expanding enrichment plant, Serbia's students entering parliament, a Prague train collision, Cyclone Akvan, and the Jeffries nomination in Washington.
 
